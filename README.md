@@ -18,7 +18,7 @@ Student1414245 Trương Võ Bảo Hân
 
 ============================
 
-https://phuslee24.github.io/myProjecthk1.github.io/#!/
+(https://phuslee24.github.io/myProjectSmartStore.github.io/#!/)
 
 ============================
 
