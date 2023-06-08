@@ -8,9 +8,9 @@ Project title: iORA - Online shopping
 
 4 collaborators:
 
-Student1414325 Nguyễn Trung Quân
+Student1414240 Lê Phạm Trần Phú
 
-Student1414240 Lê Phạm Trần Phú 
+Student1414325 Nguyễn Trung Quân
 
 Student1414337 Phan Vũ Anh Khoa
 
@@ -18,11 +18,7 @@ Student1414245 Trương Võ Bảo Hân
 
 ============================
 
-eProject documentation at https://github.com/Quan2808/Group3_eProject/tree/main/Document
-
-============================
-
-eProject published at https://quan2808.github.io/Group3_eProject/#!/
+https://phuslee24.github.io/myProjecthk1.github.io/#!/
 
 ============================
 
